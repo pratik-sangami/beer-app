@@ -19,7 +19,7 @@ This app contains two part authentication and product part.Each part are describ
 1. Default homepage should show list of beers
 
    - List all beer cards in grid
-   - Each card should have addToCart and viewDetail buttons
+   - Each card should have cartAction and viewDetail buttons
    - We should be able to get beers/ search beers from its name
    - Sorting/filter of beers should be availbale through available
 
@@ -28,3 +28,8 @@ This app contains two part authentication and product part.Each part are describ
      - abv_gt
 
      Note: max abv and min abv should be displayed from existing abv values in beers array
+
+## Cart
+
+1. Each added beers should be available here
+2. Beers can be removed from cart as well
