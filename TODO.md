@@ -31,5 +31,9 @@ This app contains two part authentication and product part.Each part are describ
 
 ## Cart
 
-1. Each added beers should be available here
-2. Beers can be removed from cart as well
+1. Cart should have:
+
+   - All beers added
+   - Total no of beers added
+
+2. Ability to remove beers from cart
